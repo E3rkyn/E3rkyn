@@ -3,7 +3,7 @@
 
 ## A PROPOS DE MOI
 - **Développeur FiveM**
-- **Owner DevLabs : discord.gg/devlabs**
+- **Owner DevLabs : https://discord.gg/devlabs**
 
 #
 # 💻 Tech Stacks:
