@@ -1,5 +1,3 @@
-# E3rkyn
-
 ![code](https://www.meosis.fr/wp-content/uploads/2020/09/gif-code.gif)
 
 # 
