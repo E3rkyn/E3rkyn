@@ -3,7 +3,7 @@
 
 ## A PROPOS DE MOI
 
-- **Owner DevLabs : https://discord.gg/devlabs**
+- **Currently Learning Lua**
 
 #
 # 💻 Tech Stacks:
